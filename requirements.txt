@@ -1,0 +1,20 @@
+# Core data analysis
+pandas
+numpy
+
+# NLP and linguistic preprocessing
+spacy
+transformers
+torch
+
+# Machine learning
+scikit-learn
+
+# Visualisation
+matplotlib
+
+# Optional: YouTube comment collection
+youtube-comment-downloader
+
+# After installation, download the Italian spaCy model with:
+# python -m spacy download it_core_news_lg
